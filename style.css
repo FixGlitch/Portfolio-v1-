@@ -195,7 +195,9 @@ section {
 }
 
 .title {
+  padding-left: 1rem;
   font-size: 3rem;
+  letter-spacing: 1rem;
   text-align: center;
 }
 
