@@ -370,6 +370,11 @@ article .icon {
   width: 90%;
   height: 90%;
 }
+.project-img:last-child {
+  border-radius: 2rem;
+  width: 330px;
+  height: 220px;
+}
 
 .project-title {
   margin: 1rem;
